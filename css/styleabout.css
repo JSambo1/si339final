@@ -242,16 +242,8 @@ a:hover{
       display:grid;
       grid-template-columns:1fr 1fr 1fr 1fr;
       grid-template-rows:repeat(10, auto);
-      justify-items:center;
       padding-left:60px;
       margin-bottom:20px;
-  }
-
-  img{
-      margin-bottom: 0px;
-      border-radius: 0px;
-      z-index:5;
-      border:none;
   }
   
    h1{
